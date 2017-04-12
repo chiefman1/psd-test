@@ -1,3 +1,9 @@
+# NPM && BOWER files and folders
+/bower_components
+/node_modules
+/build
+/.idea
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
